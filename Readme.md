@@ -13,7 +13,7 @@ yarn add n8n-client
 ## Usage
 
 ```typescript
-import { createClient } from 'n8n-client';
+import { createClient } from '@yoloai/n8n-client';
 
 // Create a client instance
 const client = createClient({
